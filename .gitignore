@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+model_dinov2_small/
+model_dinov2_base/
+dist/
+# index caches / user sheets are local data
+library/*
+!library/.gitkeep
